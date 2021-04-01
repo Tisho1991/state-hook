@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/state-hook/static/css/main.1f09007f.chunk.css",
+    "main.js": "/state-hook/static/js/main.f216ee13.chunk.js",
+    "main.js.map": "/state-hook/static/js/main.f216ee13.chunk.js.map",
+    "runtime-main.js": "/state-hook/static/js/runtime-main.776c3391.js",
+    "runtime-main.js.map": "/state-hook/static/js/runtime-main.776c3391.js.map",
+    "static/css/2.9233ae65.chunk.css": "/state-hook/static/css/2.9233ae65.chunk.css",
+    "static/js/2.afb293b4.chunk.js": "/state-hook/static/js/2.afb293b4.chunk.js",
+    "static/js/2.afb293b4.chunk.js.map": "/state-hook/static/js/2.afb293b4.chunk.js.map",
+    "index.html": "/state-hook/index.html",
+    "precache-manifest.6f9345e42fa58e2a04d2f6c0e3d2c68b.js": "/state-hook/precache-manifest.6f9345e42fa58e2a04d2f6c0e3d2c68b.js",
+    "service-worker.js": "/state-hook/service-worker.js",
+    "static/css/2.9233ae65.chunk.css.map": "/state-hook/static/css/2.9233ae65.chunk.css.map",
+    "static/css/main.1f09007f.chunk.css.map": "/state-hook/static/css/main.1f09007f.chunk.css.map",
+    "static/js/2.afb293b4.chunk.js.LICENSE.txt": "/state-hook/static/js/2.afb293b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.776c3391.js",
+    "static/css/2.9233ae65.chunk.css",
+    "static/js/2.afb293b4.chunk.js",
+    "static/css/main.1f09007f.chunk.css",
+    "static/js/main.f216ee13.chunk.js"
+  ]
+}
